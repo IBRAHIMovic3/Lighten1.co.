@@ -1,0 +1,56 @@
+body{
+    background-color: skyblue;
+}
+
+.container{
+    background-color: yellow;
+    height: 550px;
+    width: 800px;
+    margin: auto;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    border: 8px solid white;
+    padding: 30px;
+    margin-top: 20px;
+
+}
+
+input{
+    margin: 30px;
+    width: 90%;
+    padding: 10px;
+    border: none; background-color: white;
+    color: white;
+
+    border-bottom:solid skyblue ;
+}
+
+
+::placeholder{
+    color: black;
+}
+
+
+
+
+button{
+    background-color: yellow;
+    height: 50px;
+    width: 150px;
+    border: 3px solid white;
+    color: black;
+    
+
+}
+
+
+button:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    
+    
+    
+}
+

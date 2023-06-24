@@ -1,0 +1,312 @@
+.pa1{
+    height: 50px;
+    width: 1300px;
+    background-color: yellow;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header{
+    background-color: white;
+    height: 150px;
+    width: 1300px;
+    color: black;
+
+    
+    
+} 
+
+.header a{
+    color: black;
+    text-decoration: none;
+    padding-right: 100px;
+    padding: 20px;
+    margin: 20px
+    
+
+}
+
+.link{
+    padding: 30px;
+}
+
+
+.fitcento{
+    font-size: 30px;
+    text-transform: uppercase; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    
+
+} 
+
+
+button{
+    background-color: yellow;
+    height: 50px;
+    width: 100px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 3px;
+     
+    
+
+}
+
+
+button:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    
+    
+    
+}
+
+
+.pa2{
+    height: 600px;
+    width: 1300px;
+    background-color: gray;
+}
+
+.pa2{
+   
+    background-repeat: no-repeat;
+    background-image: url(/image/IMG_1691.JPG);
+    height: 600px;   
+    width: 1300px;
+    padding-top: 100px; 
+    font-size: 35px;
+    background-position: 700px;
+
+    
+}
+
+
+.pa45{
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    
+    margin-left: 150px;
+}
+
+.pa3{
+    margin-left: 100px;
+}
+
+
+
+
+.pa4{
+    color: yellow;
+    margin-left: 150px ;
+}
+
+
+.pa6{
+    height: 50px;
+    width: 300px;
+    background-color: yellow;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+
+.pa7{
+
+    background-color: yellow;
+    height: 150px;
+    width: 1300px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+
+}
+
+.pa8{
+    font-size: 30px;
+    
+}
+
+
+.pa9{
+    height: 520px;
+    width: 1300px;
+    background-color: yellow;
+}
+
+.pa10{
+    background-color: gray;
+    height: 460px;
+    width: 1200px;
+    margin: auto;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding: 30px;
+    margin-top: 20px;
+
+}
+
+.pa11{ 
+    width: 200px;
+    height: 200px;
+    color: black;
+    border-radius: 300px;
+    background-image: url(/image/IMG_1700.JPG);
+    float: left;
+   
+
+}
+
+.pa12{ 
+    width: 200px;
+    height: 200px;
+     margin-left: 100px;
+    border-radius: 300px;
+    background-image: url(/image/IMG_1697.JPG);
+    float: left;
+    color: black;
+    
+
+}
+
+
+.pa13{ 
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 300px;
+    background-image: url(/image/IMG_1691.JPG);
+    float: left;
+    color: black;
+
+}
+
+.pa14{ 
+    width: 200px;
+    height: 190px;
+    margin-left: 190px;
+    border-radius: 300px;
+    background-image: url(/image/IMG_1681.JPG);
+    float: left;
+    color: black;
+    
+
+}
+
+.pa15{
+    text-align: left;
+    margin-top: 250px;
+    text-transform: capitalize;
+}
+
+.pa16{
+    text-align: left;
+    margin-top: 250px;
+    text-transform: capitalize;
+}
+
+.pa17{
+    text-align: left;
+    margin-top: 250px;
+    text-transform: capitalize;
+}
+
+.pa18{
+    text-align: left;
+    margin-top: 250px;
+    text-transform: capitalize;
+}
+
+
+.pa19{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 150px;
+    margin-top: 420px;
+    text-align: center;
+    border: 3px  solid yellow;
+    color: black;
+    margin-left: 500px;
+    text-transform: capitalize;
+}
+
+
+
+.pa20{
+
+    background-color: blue;
+    height: 150px;
+    width: 1300px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+
+}
+
+.pa21{
+    font-size: 30px;
+    
+    
+}
+
+
+.pa22{
+    height: 800px;
+    width: 1300px;
+    background-color: brown;
+    
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.service .service-box i img {
+    height: 88px;
+}
+
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
